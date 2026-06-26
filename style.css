@@ -1,0 +1,29 @@
+body {
+    background-color: #1e1e24;
+    color: wheat;
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+#click-btn {
+    background-color: #deb887;
+    color:#fff8dc;
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto;
+}
+#buy-upgrade-btn {
+     background-color: #deb887;
+    color:#fff8dc;
+    border: none;
+    padding: 15px 30px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto;
+}

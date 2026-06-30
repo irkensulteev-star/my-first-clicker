@@ -2,10 +2,6 @@
 
 A simple, interactive, and stylish web-based clicker game built from scratch to learn the fundamentals of front-end web development.
 
-## 🚀 Live Demo
-You can play the game live in your browser here:  
-👉 [Play My First Clicker Game](https://github.io)
-
 ## ✨ Features
 * **Interactive Clicking:** Click the "Hit Me" button to earn points instantly.
 * **Upgrade System:** Save up 10 points to buy an upgrade that automatically generates points over time.
